@@ -7,5 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "WeatherServicesLibrary"
-include ':app'
 include ':RemoteServices'
